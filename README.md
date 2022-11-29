@@ -15,7 +15,7 @@ func main() {
 		Name:        "Poolsawat Apin",
 		NickName:    "Pool",
 		CurrentRole: "Senior Engineer",
-		Skills:      []string{"Java", "Kotlin", "Go", "Dart", "JavaScript", "Solidity", "PHP5-7", "SQL"},
+		Skills:      []string{"Java", "Kotlin", "Go", "Dart", "JavaScript", "Solidity", "PHP5-7", "SQL","Python","HTML5","TypeScript"},
 		FollowMe:    []string{"https://www.poolsawat.com", "https://poolsawat-com.medium.com"},
 	}
 	fmt.Println(me)
